@@ -21,4 +21,4 @@ Madrid, España
 ### Contacto
 - Celular: (+57) 311 336 9972
 - Correo: [teilorza17@gmail.com](mailto:teilorza17@gmail.com)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-ing--tailorzc-blue)](www.linkedin.com/in/ing-tailorzc)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-ing--tailorzc-blue)](https://www.linkedin.com/in/ing-tailorzc)
