@@ -1,6 +1,5 @@
 ![Mi Foto](banner.png)
 
-¡Hola! Soy Johon Tailor, un Ingeniero de Sistemas con experiencia en gestión administrativa, monitoría de sistemas y aspirante a dessarrollador. Soy una persona proactiva y creativa, con una sólida autodisciplina y habilidades organizativas. Mi enfoque autodidacta me ha permitido aprender y adaptarme rápidamente a nuevos desafíos, con buenas relaciones interpersonales que me permiten trabajar de manera efectiva en equipos multidisciplinarios, Destaco por tener la mejor disposición para la realización de mis labores y ser apoyo constate a mis compañeros. Mi objetivo es aplicar estas habilidades y contribuir al crecimiento y éxito a la organización a la que pertenezca, en un entorno desafiante donde pueda continuar aprendiendo y ampliando mis habilidades..
 
 ### Educación
 **Ingenierio de Sistemas**  
